@@ -8,3 +8,11 @@ NEED TODOS:
 2. grab other components from tailwind flex then alter them 
 3. use react aria, zustard, zod, atoms by jotai, and tanstack router and query.
 4. check out anime.js and https://www.reactbits.dev/
+
+inside /components/examples/ create example files using react aria, zustard, zod, atoms by jotai, and tanstack query
+/src/main.jsx any global state contexts will wrap the app in this file.
+
+className naming: <div className="Navbar (tailwind styles)">
+
+commenting: // element/function name: purpsose(at most 2 sentences if needed)
+Only put a comment above the function/element
